@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "391411911923",
+    "project_id": "weddingapp-ada98",
+    "storage_bucket": "weddingapp-ada98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391411911923:android:545b804483f4546a4c7b86",
+        "android_client_info": {
+          "package_name": "com.neharishaadi.wedding"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391411911923-8mu5keb1bl2phjc60b0lajmsiqcknl93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7vbG6rYT064SfR0effEK28dWj499O5G8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391411911923-8mu5keb1bl2phjc60b0lajmsiqcknl93.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "391411911923-27ir61ldjo5vddk4l6hkug86hr1vis46.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wedding.neharishaadi"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391411911923:android:2e1776f2c236c7964c7b86",
+        "android_client_info": {
+          "package_name": "com.wedding.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391411911923-8mu5keb1bl2phjc60b0lajmsiqcknl93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7vbG6rYT064SfR0effEK28dWj499O5G8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391411911923-8mu5keb1bl2phjc60b0lajmsiqcknl93.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "391411911923-27ir61ldjo5vddk4l6hkug86hr1vis46.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wedding.neharishaadi"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391411911923:android:b3b054364affcee74c7b86",
+        "android_client_info": {
+          "package_name": "com.wedding.newdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391411911923-8mu5keb1bl2phjc60b0lajmsiqcknl93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7vbG6rYT064SfR0effEK28dWj499O5G8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391411911923-8mu5keb1bl2phjc60b0lajmsiqcknl93.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "391411911923-27ir61ldjo5vddk4l6hkug86hr1vis46.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wedding.neharishaadi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
