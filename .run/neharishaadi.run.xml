@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="neharishaadi" type="FlutterRunConfigurationType" factoryName="Flutter">
+    <option name="additionalArgs" value="--flavor neharishaadi" />
+    <option name="filePath" value="$PROJECT_DIR$/lib/main_neharishaadi.dart" />
+    <method v="2" />
+  </configuration>
+</component>

@@ -1,0 +1,25 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "wedding-master",
+            "request": "launch",
+            "type": "dart",
+            "args": [
+                "--flavor"
+            ]
+        },
+        {
+            "name": "wedding-master (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "wedding-master (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}

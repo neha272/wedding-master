@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="flavor: demo" type="FlutterRunConfigurationType" factoryName="Flutter">
+    <option name="additionalArgs" value="--flavor demo" />
+    <option name="filePath" value="$PROJECT_DIR$/lib/main_demo.dart" />
+    <method v="2" />
+  </configuration>
+</component>
